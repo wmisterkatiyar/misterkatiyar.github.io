@@ -1,0 +1,58 @@
+# Site settings
+title:       "Mister Katiyar"
+email:       "MisterKatiyar@gmail.com"
+author:      "MisterKatiyar Bhalendra"
+description: "Mister Katiyar ( Bhalendra Singh Katiyar ) Profile Pages and Blog Posts by Mr. Katiyar ( Software Architect Delhi, India )"
+baseurl:     ""
+url:         "http://misterkatiyar.in"
+
+# Google analytics
+google_analytics: "UA-52155036-4"
+
+# Optional features
+animated:           true
+show_related_posts: true
+show_post_footers:  true
+
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname:
+
+# Social icons
+show_social_icons: true
+github_username: "MisterKatiyar"
+stackoverflow_id: "3130666/MisterKatiyar"
+twitter_username: "MisterKatiyar"
+google_plus_id: "+MisterKatiyarBhalendraProfile"
+linkedin_username: "MisterKatiyar"
+display_rss_feed:
+angellist_username:
+bitcoin_url:
+paypal_url:
+flattr_button:
+
+# Post sharing icons
+show_sharing_icons: true
+share_text: 'Share this post!'
+# Change to 'true' to enable individual icons
+share_facebook: true
+share_twitter: true
+share_googleplus: true
+share_linkedin: true
+share_digg: false
+share_tumblr: false
+share_reddit: false
+share_stumbleupon: false
+share_hackernews: false
+
+# Build settings
+markdown:     redcarpet
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    "/:title"
+paginate:     3
+sass:
+  compressed: true
+gems:
+  - jekyll-sitemap
+  
