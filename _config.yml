@@ -3,8 +3,8 @@ title:       "Mister Katiyar"
 email:       "MisterKatiyar@gmail.com"
 author:      "MisterKatiyar Bhalendra"
 description: "Mister Katiyar ( Bhalendra Singh Katiyar ) Profile Pages and Blog Posts by Mr. Katiyar ( Software Architect Delhi, India )"
-baseurl:     ""
-url:         "http://misterkatiyar.in"
+baseurl:     "/misterkatiyar.github.io"
+url:         "http://github-wmisterkatiyar.github.io"
 
 # Google analytics
 google_analytics: "UA-52155036-4"
